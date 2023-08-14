@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=47074935-5e2c-4652-b6f4-074f102cb3e6
+export UUID=9f50156d-e21c-473e-9173-83ea2bfbae08
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=hoop-light.com
